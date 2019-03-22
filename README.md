@@ -1,7 +1,5 @@
 # C++ Notes For Professionals
 
-=========================
-
 - 原文：[goalkicker.com](https://goalkicker.com/CPlusPlusBook/)
 - 译者：[hexbee](https://github.com/hexbee)
 - 目录：[这里](SUMMARY.md)
