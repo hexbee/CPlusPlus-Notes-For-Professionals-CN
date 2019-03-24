@@ -3,7 +3,7 @@
 	* [1.1 Hello World](content/chapter1/1.1-Hello-World.md)
 	* [1.2 注释](content/chapter1/1.2-Comments.md)
 	* [1.3 标准C++编译过程](content/chapter1/1.3-The-standard-CPP-compilation-process.md)
-	* [1.4 Function](null) 
+	* [1.4 函数](content/chapter1/1.4-Function.md)
 	* [1.5 Visibility of function prototypes and declarations](null) 
 	* [1.6 Preprocessor](null) 
 * [第2章 Literals](null) 
