@@ -5,9 +5,9 @@
 
 - 原文：[goalkicker.com](https://goalkicker.com/CPlusPlusBook/)
 - 译者：[hexbee](https://github.com/hexbee)
-- Github翻译地址：https://github.com/hexbee/CPlusPlus-Notes-For-Professionals-CN
-- 目录：[这里](SUMMARY.md)
-- 状态：未完成
+- 翻译地址：https://github.com/hexbee/CPlusPlus-Notes-For-Professionals-CN
+- 查看目录：[这里](SUMMARY.md)
+- 翻译进度：未完成
 
 ## 概述和声明
 
@@ -17,4 +17,5 @@
 - 这本书中提供的信息以及翻译不能保证是正确和准确，使用的风险由使用者自己承担。
 
 ## 封面：
+
 ![cover](cover.png)
