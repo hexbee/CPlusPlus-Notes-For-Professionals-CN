@@ -1,6 +1,8 @@
 # C++ Notes For Professionals
-[![](https://img.shields.io/github/issues-raw/hexbee/CPlusPlus-Notes-For-Professionals-CN.svg)](https://github.com/hexbee/CPlusPlus-Notes-For-Professionals-CN/issues)
-[![](https://tokei.rs/b1/github/hexbee/CPlusPlus-Notes-For-Professionals-CN?category=lines)](https://github.com/Aaronepower/tokei)
+
+[![issues](https://img.shields.io/github/issues-raw/hexbee/CPlusPlus-Notes-For-Professionals-CN.svg)](https://github.com/hexbee/CPlusPlus-Notes-For-Professionals-CN/issues)
+
+[![tokei](https://tokei.rs/b1/github/hexbee/CPlusPlus-Notes-For-Professionals-CN?category=lines)](https://github.com/Aaronepower/tokei)
 
 - 原文：[goalkicker.com](https://goalkicker.com/CPlusPlusBook/)
 - 译者：[hexbee](https://github.com/hexbee)
@@ -17,3 +19,5 @@
 ## 本书相关
 
 - github翻译地址：https://github.com/hexbee/CPlusPlus-Notes-For-Professionals-CN
+- 封面：
+  ![cover](cover.png)
