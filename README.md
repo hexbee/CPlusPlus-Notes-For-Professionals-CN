@@ -1,4 +1,5 @@
 # C++ Notes For Professionals
+[![](https://tokei.rs/b1/github/hexbee/CPlusPlus-Notes-For-Professionals-CN?category=lines)](https://github.com/Aaronepower/tokei)
 
 - 原文：[goalkicker.com](https://goalkicker.com/CPlusPlusBook/)
 - 译者：[hexbee](https://github.com/hexbee)
