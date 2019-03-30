@@ -14,7 +14,7 @@
 	* [2.5 空指针常量nullptr](content/chapter2/2.5-nullptr.md) 
 * [第3章 运算符优先级](content/chapter3/3.0-operator-precedence.md) 
 	* [3.1 逻辑运算符&&和||:短路](content/chapter3/3.1-Logical-operators-short-circuit.md) 
-	* [3.2 Unary Operators](null) 
+	* [3.2 一元操作符](content/chapter3/3.2-Unary-Operators.md) 
 	* [3.3 Arithmetic operators](null) 
 	* [3.4 Logical AND and OR operators](null) 
 * [第4章 Floating Point Arithmetic](null) 
