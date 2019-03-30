@@ -2,6 +2,7 @@
 
 [![issues](https://img.shields.io/github/issues-raw/hexbee/CPlusPlus-Notes-For-Professionals-CN.svg)](https://github.com/hexbee/CPlusPlus-Notes-For-Professionals-CN/issues)
 [![tokei](https://tokei.rs/b1/github/hexbee/CPlusPlus-Notes-For-Professionals-CN?category=lines)](https://github.com/Aaronepower/tokei)
+[![HitCount](http://hits.dwyl.io/hexbee/hexbee/CPlusPlus-Notes-For-Professionals-CN.svg)](http://hits.dwyl.io/hexbee/hexbee/CPlusPlus-Notes-For-Professionals-CN)
 
 - 原文：[goalkicker.com](https://goalkicker.com/CPlusPlusBook/)
 - 译者：[hexbee](https://github.com/hexbee)
