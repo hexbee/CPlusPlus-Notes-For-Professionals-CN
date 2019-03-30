@@ -7,7 +7,9 @@
 - 译者：[hexbee](https://github.com/hexbee)
 - 翻译地址：https://github.com/hexbee/CPlusPlus-Notes-For-Professionals-CN
 - 查看目录：[这里](SUMMARY.md)
-- 翻译进度：未完成
+- 翻译进度：
+  - 完成：第 1 - 4 章
+  - 未完成：第 5 - 146 章
 
 ## 概述和声明
 
