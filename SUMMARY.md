@@ -16,7 +16,7 @@
 	* [3.1 逻辑运算符&&和||:短路](content/chapter3/3.1-Logical-operators-short-circuit.md) 
 	* [3.2 一元操作符](content/chapter3/3.2-Unary-Operators.md) 
 	* [3.3 算术操作符](content/chapter3/3.3-Arithmetic-operators.md) 
-	* [3.4 Logical AND and OR operators](null) 
+	* [3.4 逻辑与或运算符](content/chapter3/3.4-Logical-AND-and-OR-operators.md) 
 * [第4章 Floating Point Arithmetic](null) 
 	* [4.1 Floating Point Numbers are Weird](null) 
 * [第5章 Bit Operators](null) 
